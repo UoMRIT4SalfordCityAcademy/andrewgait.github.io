@@ -12,3 +12,9 @@ Testing GitHub pages for website creation / update project as a possible school 
 
 - Need to work out what rulesets need to be applied
 - Need to know whether there may be any issues relating to firewalls etc. at the school
+
+<h1>HTML test</h1>
+
+<p>Testing what happens if I use html tags in a markdown file</p>
+
+<p>Test adding a <a href="testpage.html">link to the testpage</a>.</p>
