@@ -16,3 +16,5 @@ Testing GitHub pages for website creation / update project as a possible school 
 <h1>HTML test</h1>
 
 <p>Testing what happens if I use html tags in a markdown file</p>
+
+<p>Test adding a <a href="testpage.html">link to the testpage</a>.</p>
